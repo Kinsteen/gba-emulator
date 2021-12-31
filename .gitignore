@@ -1,0 +1,17 @@
+*.o
+*.a
+*.d
+*.asm
+*.sav
+*.gb
+*.gba
+.vscode/
+*.dll
+*.exe
+include/
+lib/
+roms/
+dep/
+build
+main
+.clang*
